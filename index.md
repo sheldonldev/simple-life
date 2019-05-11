@@ -6,6 +6,7 @@
 
 ### References
 [Nutrition Intake Reference](recipe/reference.md)
+
 [Food Shopping List](recipe/shoplist.md)
 
 ### Daily Recipe Record
