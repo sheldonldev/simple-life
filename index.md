@@ -4,9 +4,9 @@
 
 ## Food
 
-[Nutrition Intake Reference](recipe/reference.md)
+[Nutrition Intake Reference](food/reference.md)
 
-[Food Shopping List](recipe/shoplist.md)
+[Food Shopping List](food/shoplist.md)
 
 ## Clothing
 
