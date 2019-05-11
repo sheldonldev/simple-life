@@ -6,6 +6,7 @@
 
 ### References
 [Nutrition Intake Reference](recipe/reference.md)
+[Food Shopping List](recipe/shoplist.md)
 
 ### Daily Recipe Record
 [2019-05-10](recipe/2019-05-10.md)
